@@ -13,6 +13,7 @@ module.exports = {
     image: "/twitter-img.png",
     siteUrl: "https://testing-strapi-gatsby-build.netlify.app",
   },
+  pathPrefix: "Portfolio",
   plugins: [
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

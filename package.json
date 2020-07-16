@@ -6,8 +6,8 @@
   "license": "MIT",
   "homepage": "https://github.com/abhinav-TB/Portfolio",
   "scripts": {
-    "predeploy": "gatsby build",
-    "deploy": "gh-pages -d build",
+   
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
