@@ -21,12 +21,12 @@ const data = [
   },
   {
     id: 3,
-    icon: <FaGithubSquare className="social-icon"></FaDribbbleSquare>,
+    icon: <FaGithubSquare className="social-icon"></FaGithubSquare>,
     url: "https://github.com/abhinav-TB",
   },
   {
     id: 4,
-    icon: <FaQuora className="social-icon"></FaBehanceSquare>,
+    icon: <FaQuora className="social-icon"></FaQuora >,
     url: "https://www.quora.com/profile/Abhinav-TB",
   },
   {
