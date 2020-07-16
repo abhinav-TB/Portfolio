@@ -5,7 +5,7 @@ export default [
     id: 1,
     icon: <FaCode className="service-icon" />,
     title: "web development",
-    text: `Im interested in web development and system design. I am familiar with React , Node js , Expres js, Gatsby , strapi ,flask etc.. You can contact me for collaboration in any projects`,
+    text: `Im interested in web development and system design. I am familiar with React , Node js , Express js, Firebase ,Gatsby , strapi ,flask etc.. You can contact me for collaboration in any projects`,
   },
   {
     id: 2,
