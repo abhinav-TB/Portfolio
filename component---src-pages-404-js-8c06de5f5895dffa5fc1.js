@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),r=n.n(t),l=n("7oih"),c=n("Wbzz");n("EYWl");a.default=function(){return r.a.createElement(l.a,null,r.a.createElement("main",{className:"error-page"},r.a.createElement("div",{className:"error-container"},r.a.createElement("h1",null,"oops wrong place"),r.a.createElement(c.a,{to:"/",className:"btn"},"bacl home"))))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-8c06de5f5895dffa5fc1.js.map
